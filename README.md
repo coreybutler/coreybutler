@@ -6,7 +6,7 @@ I build code, communities, and companies. I manage Ecor Ventures LLC, a small po
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
 - [Butler Logic](https://butlerlogic.com) (R&D/Professional Services)
 
-I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at conferences, answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler), and spend WAY too much time on Github. Aside from here, you can find my other OSS projects [@metadoc](https://github.com/metadoc), [@author](https://github.com/author), [@butlerlogic](https://github.com/butlerlogic), and [@ngnjs](https://github.com/ngnjs).
+I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at conferences, answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler), and spend WAY too much time on Github. Aside from here, you can find my other OSS projects [@metadoc](https://github.com/metadoc), [@author](https://github.com/author), [@butlerlogic](https://github.com/butlerlogic), and [@ngnjs](https://github.com/ngnjs). Sponsors are greatly appreciated!
 <!--
 **coreybutler/coreybutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
