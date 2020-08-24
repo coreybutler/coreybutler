@@ -1,12 +1,14 @@
 ### Hi 👋
 
-I build code, communities, and companies. I primarily work with [@gbdrummer](https://github.com/gbdrummer) building the infrastructure for these ventures:
+I build code, communities, and companies. I currently work with [@gbdrummer](https://github.com/gbdrummer) building the infrastructure for these ventures:
 
 - [Author.io](https://github.com/author) (software firm, built [Fenix Web Server](https://preview.fenixwebserver.com))
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
 - [Butler Logic](https://butlerlogic.com) (R&D/Professional Services)
 
 I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at conferences, answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler), and spend WAY too much time on Github. Aside from here, you can find my other OSS projects [@metadoc](https://github.com/metadoc), [@author](https://github.com/author), [@butlerlogic](https://github.com/butlerlogic), and [@ngnjs](https://github.com/ngnjs).
+
+Most of my tech career has been in consulting, with an emphasis on data warehousing/business intelligence, systems engineering, and workforce development. Over the years I've had the pleasure of working with Abbott Labs, Amazon, Atlassian, Baxter, Constant Contact, Discover Card, GlaxoSmithkline, RR Donnelley, Sencha, and hundreds of others. The exposure to such variety shaped my perspective on software development, ultimately resulting in a passion for developer experience and the study of career progression. You'll see this influence in much of my OSS work.
 <!--
 **coreybutler/coreybutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
