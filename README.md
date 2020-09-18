@@ -8,6 +8,7 @@ I build code, communities, and companies. I currently work with [@gbdrummer](htt
 
 I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at conferences, answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler), and spend WAY too much time on Github. Aside from here, you can find my other OSS projects [@metadoc](https://github.com/metadoc), [@author](https://github.com/author), [@butlerlogic](https://github.com/butlerlogic), and [@ngnjs](https://github.com/ngnjs).
 
+[![Quora](https://img.shields.io/badge/Top%20Writer-red?logo=quora&style=social)](https://www.quora.com/profile/Corey-Butler) ![Twitter Follow](https://img.shields.io/twitter/follow/goldglovecb?label=%40goldglovecb) [![BEW](https://img.shields.io/badge/Bleeding%20Edge-Co--organizer-1?logo=meetup&style=social)](https://edgeatx.org)
 <!--
 **coreybutler/coreybutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
