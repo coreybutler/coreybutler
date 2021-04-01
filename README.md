@@ -39,7 +39,7 @@ I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at confe
 
 ### Hire Me
 
-I work on a contract basis, through Butler Logic. If you have a specific role that needs to be filled, see [hire.coreybutler.com](https://hire.coreybutler.com).
+I work on a contract basis, through [Butler Logic](https://butlerlogic.com). If you have a specific role that needs to be filled, see [hire.coreybutler.com](https://hire.coreybutler.com).
 
 <!--
 **coreybutler/coreybutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
