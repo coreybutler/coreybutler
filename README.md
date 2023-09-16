@@ -4,7 +4,7 @@ I build code, communities, and companies. I currently work with [@gbdrummer](htt
 
 - [Author.io](https://github.com/author) (software firm, built [Fenix Web Server](https://preview.fenixwebserver.com))
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
-- [Butler Logic](https://butlerlogic.com) (R&D/Professional Services)
+- [Butler Logic](https://butlerlogic.com) (Research & Development)
 
 I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at conferences, answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler), and spend WAY too much time on Github. Aside from here, you can find my other OSS projects [@metadoc](https://github.com/metadoc), [@author](https://github.com/author), [@butlerlogic](https://github.com/butlerlogic), and [@ngnjs](https://github.com/ngnjs).
 
@@ -37,9 +37,10 @@ I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), speak at confe
 
 [![Quora](https://img.shields.io/badge/Top%20Writer-red?logo=quora&style=social)](https://www.quora.com/profile/Corey-Butler) ![Twitter Follow](https://img.shields.io/twitter/follow/goldglovecb?label=%40goldglovecb) [![BEW](https://img.shields.io/badge/Bleeding%20Edge%20Web-Co--organizer-1?logo=meetup&style=social)](https://edgeatx.org)
 
-### Hire Me
 
-I work on a contract basis, through [Butler Logic](https://butlerlogic.com). If you have a specific role that needs to be filled, see [hire.coreybutler.com](https://hire.coreybutler.com).
+🔭 I’m currently working on [Runtime](https://github.com/coreybutler/nvm-windows/wiki/Runtime), the successor to [NVM for Windows](https://github.com/coreybutler/nvm-windows).
+🛑 Afer 25 years, I am no longer accepting contract work or providing consulting services.
+⏸️ I am _temporarily_ not accepting advisory/board positions with startups.
 
 <!--
 **coreybutler/coreybutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
