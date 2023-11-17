@@ -4,7 +4,7 @@ I build code, communities, and companies.
 
 🔭 I’m currently working with [@gbdrummer](https://github.com/gbdrummer) on [Runtime](https://github.com/coreybutler/nvm-windows/wiki/Runtime), the successor to [NVM for Windows](https://github.com/coreybutler/nvm-windows).
 
-🛑 After 25 years, I am no longer accepting contract work or providing consulting services.
+🛑 After 25 years, I am no longer accepting contract work or providing consulting services. Our OSS projects are still available though at [@butlerlogic](https://github.com/butlerlogic).
 
 ⏸️ I am _temporarily_ not accepting advisory/board positions with startups.
 
@@ -14,7 +14,7 @@ I currently work with  building the infrastructure for these ventures:
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
 - [Butler Logic](https://butlerlogic.com) (Research & Development)
 -->
-I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). Aside from here, you can find my other OSS projects [@metadoc](https://github.com/metadoc), [@author](https://github.com/author), [@butlerlogic](https://github.com/butlerlogic), and [@ngnjs](https://github.com/ngnjs).
+I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). I also run the [@author](https://github.com/author) and [@metadoc](https://github.com/metadoc) organizations and created [@ngnjs](https://github.com/ngnjs).
 
 
 ### Selected Works
