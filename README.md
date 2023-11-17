@@ -4,7 +4,7 @@ I build code, communities, and companies.
 
 🔭 I’m currently working with [@gbdrummer](https://github.com/gbdrummer) on [Runtime](https://github.com/coreybutler/nvm-windows/wiki/Runtime), the successor to [NVM for Windows](https://github.com/coreybutler/nvm-windows).
 
-🛑 After 25 years, I am no longer accepting contract work or providing consulting services. Our OSS projects are still available at [@butlerlogic](https://github.com/butlerlogic).
+🛑 After 25 years, I am no longer accepting contract work or providing consulting services, but our [OSS projects (@butlerlogic)](https://github.com/butlerlogic) are still available.
 
 ⏸️ I am _temporarily_ not accepting advisory/board positions with startups.
 
