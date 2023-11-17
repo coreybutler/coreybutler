@@ -14,7 +14,7 @@ I currently work with  building the infrastructure for these ventures:
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
 - [Butler Logic](https://butlerlogic.com) (Research & Development)
 -->
-I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). I also run the [@author](https://github.com/author) and [@metadoc](https://github.com/metadoc) organizations and created [@ngnjs](https://github.com/ngnjs).
+I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org) with [@bmoeskau](https://github.com/bmoeskau) and [@tedpatrick](https://github.com/tedpatrick), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). I also run the [@author](https://github.com/author) and [@metadoc](https://github.com/metadoc) organizations and created [@ngnjs](https://github.com/ngnjs).
 
 
 ### Selected Works
