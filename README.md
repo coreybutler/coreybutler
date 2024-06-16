@@ -14,7 +14,7 @@ I currently work with  building the infrastructure for these ventures:
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
 - [Butler Logic](https://butlerlogic.com) (Research & Development)
 -->
-I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org) with [@bmoeskau](https://github.com/bmoeskau) and [@tedpatrick](https://github.com/tedpatrick), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). I also run the [@author](https://github.com/author) and [@metadoc](https://github.com/metadoc) organizations and created the [@ngnjs](https://github.com/ngnjs) project.
+I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org) with [@bmoeskau](https://github.com/bmoeskau) and [@tedpatrick](https://github.com/tedpatrick), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). I also run the [@author](https://github.com/author), [@metadoc](https://github.com/metadoc), and [@ngnjs](https://github.com/ngnjs) organizations.
 
 
 ### Selected Works
@@ -44,7 +44,7 @@ I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org) with [@bmoeskau
 
 ### Connect
 
-[![Quora](https://img.shields.io/badge/Top%20Writer-red?logo=quora&style=social)](https://www.quora.com/profile/Corey-Butler) ![Twitter Follow](https://img.shields.io/twitter/follow/goldglovecb?label=%40goldglovecb) [![BEW](https://img.shields.io/badge/Bleeding%20Edge%20Web-Co--organizer-1?logo=meetup&style=social)](https://edgeatx.org)
+![Twitter Follow](https://img.shields.io/twitter/follow/goldglovecb?label=%40goldglovecb) [![LinkedIn](https://img.shields.io/badge/Follow%20Me--1?logo=linkedin&style=social)]([https://edgeatx.org](https://www.linkedin.com/in/coreyabutler)) [![Quora](https://img.shields.io/badge/Top%20Writer-red?logo=quora&style=social)](https://www.quora.com/profile/Corey-Butler) [![BEW](https://img.shields.io/badge/Bleeding%20Edge%20Web-Co--organizer-1?logo=meetup&style=social)](https://edgeatx.org)
 
 
 <!--
