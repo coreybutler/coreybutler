@@ -43,8 +43,7 @@ I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org) with [@bmoeskau
 </table>
 
 ### Connect
-
-![Twitter Follow](https://img.shields.io/twitter/follow/goldglovecb?label=%40goldglovecb) [![LinkedIn](https://img.shields.io/badge/Follow%20Me--1?logo=linkedin&style=social)]([https://edgeatx.org](https://www.linkedin.com/in/coreyabutler)) [![Quora](https://img.shields.io/badge/Top%20Writer-red?logo=quora&style=social)](https://www.quora.com/profile/Corey-Butler) [![BEW](https://img.shields.io/badge/Bleeding%20Edge%20Web-Co--organizer-1?logo=meetup&style=social)](https://edgeatx.org)
+![Twitter Follow](https://img.shields.io/twitter/follow/goldglovecb?label=%40goldglovecb) [![coreybutler.com](https://img.shields.io/badge/coreybutler.com-white?logo=bluesky&logoColor=1083FE)](https://bsky.app/profile/coreybutler.com) [![LinkedIn](https://img.shields.io/badge/Follow%20Me--1?logo=linkedin&style=social)]([https://edgeatx.org](https://www.linkedin.com/in/coreyabutler)) [![Quora](https://img.shields.io/badge/Top%20Writer-red?logo=quora&style=social)](https://www.quora.com/profile/Corey-Butler) [![BEW](https://img.shields.io/badge/Bleeding%20Edge%20Web-Co--organizer-1?logo=meetup&style=social)](https://edgeatx.org)
 
 
 <!--
