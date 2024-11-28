@@ -6,8 +6,6 @@ I build code, communities, and companies.
 
 🛑 After 25 years, I am no longer accepting contract work or providing consulting services, but our [OSS projects](https://github.com/butlerlogic) are still available.
 
-⏸️ I am _temporarily_ not accepting advisory/board positions with startups.
-
 <!--
 I currently work with  building the infrastructure for these ventures:
 - [Author.io](https://github.com/author) (software firm, built [Fenix Web Server](https://preview.fenixwebserver.com))
