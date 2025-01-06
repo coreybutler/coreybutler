@@ -1,43 +1,35 @@
-### Hi 👋
-
-I build code, communities, and companies. 
-
-🔭 I’m currently building [Runtime](https://github.com/coreybutler/nvm-windows/wiki/Runtime), the successor to [NVM for Windows](https://github.com/coreybutler/nvm-windows), with [@gbdrummer](https://github.com/gbdrummer).
-
-🛑 After 25 years, I am no longer accepting contract work or providing consulting services, but our [OSS projects](https://github.com/butlerlogic) are still available.
+I build code, [communities](https://edgeatx.org), and [companies](https://linkedin.com/in/coreyabutler). Currently building [Author Software](https://linkedin.com/company/authorsoftware) with [@gbdrummer](https://github.com/gbdrummer).
 
 <!--
 I currently work with  building the infrastructure for these ventures:
-- [Author.io](https://github.com/author) (software firm, built [Fenix Web Server](https://preview.fenixwebserver.com))
+- [Author Software](https://github.com/author) (software firm, built [Fenix Web Server](https://preview.fenixwebserver.com))
 - [Metadoc.io](https://metadoc.io) (Tech Documentation Platform)
 - [Butler Logic](https://butlerlogic.com) (Research & Development)
 -->
-I cofounded/co-organize [Bleeding Edge Web](https://edgeatx.org) with [@bmoeskau](https://github.com/bmoeskau) and [@tedpatrick](https://github.com/tedpatrick), occassionally speak at conferences, and answer tech questions on [Quora](https://www.quora.com/profile/Corey-Butler). I also run the [@author](https://github.com/author), [@metadoc](https://github.com/metadoc), and [@ngnjs](https://github.com/ngnjs) organizations.
-
-
-### Selected Works
 
 <table>
   <tr>
-    <th>Metadoc</th>
-    <th>NVM For Windows</th>
-    <th>Fenix Web Server</th>
+    <th>NVM for Windows<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=social">&nbsp;<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?logoColor=blue"></th>
+    <th>Fenix Web Server<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/fenix?style=social">&nbsp;<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/coreybutler/fenix/total?logoColor=blue"></th>
+    <th>node-windows<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/node-windows?style=social">&nbsp;<img alt="NPM Downloads" src="https://img.shields.io/npm/d18m/node-windows?color=red">
+</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/metadoc" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/metadoc.png" height="175px"/></a></td>
+    <!--<td><a href="https://github.com/metadoc" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/metadoc.png" height="175px"/></a></td>-->
     <td><a href="https://github.com/coreybutler/nvm-windows" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/nvm4w.png" height="175px"/></a></td>
-    <td align="center"><a href="https://preview.fenixwebserver.com" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/fenix.png" height="175px"/></a></td>
+    <td align="center" width="33%"><a href="https://preview.fenixwebserver.com" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/fenix.png" height="175px"/></a></td>
+    <td><a href="https://github.com/coreybutler/node-windows" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/node-windows.png" height="175px"/></a></td>
   </tr>
-  <tr>
+  <!--<tr>
     <th>Shell</th>
-    <th>node-windows</th>
+    <th>blah</th>th>
     <th>NGN</th>
   </tr>
   <tr>
     <td><a href="https://github.com/author/shell" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/cli.jpeg" height="175px"/></a></td>
     <td><a href="https://github.com/coreybutler/node-windows" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/node-windows.png" height="175px"/></a></td>
     <td><a href="https://github.com/ngnjs" target="_blank"><img src="https://github.com/coreybutler/coreybutler/raw/master/NGN.png" height="175px"/></a></td>
-  </tr>
+  </tr>-->
 </table>
 
 ### Connect
