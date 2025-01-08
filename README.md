@@ -1,3 +1,5 @@
+![GitHub User's stars](https://img.shields.io/github/stars/coreybutler?label=Total%20Stars)
+
 I build code, [communities](https://edgeatx.org), and [companies](https://linkedin.com/in/coreyabutler). Currently building [Author Software](https://linkedin.com/company/authorsoftware) with [@gbdrummer](https://github.com/gbdrummer).
 
 <!--
