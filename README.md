@@ -11,9 +11,9 @@ I currently work with  building the infrastructure for these ventures:
 
 <table>
   <tr>
-    <th>NVM for Windows<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=social">&nbsp;<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?logoColor=blue"></th>
+    <th>NVM for Windows<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=social&x=1">&nbsp;<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?logoColor=blue"></th>
     <th>Fenix Web Server<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/fenix?style=social">&nbsp;<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/coreybutler/fenix/total?logoColor=blue"></th>
-    <th>node-windows<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/node-windows?style=social">&nbsp;<img alt="NPM Downloads" src="https://img.shields.io/npm/d18m/node-windows?color=red">
+    <th>node-windows<br/><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/coreybutler/node-windows?style=social&x=1">&nbsp;<img alt="NPM Downloads" src="https://img.shields.io/npm/d18m/node-windows?color=red">
 </th>
   </tr>
   <tr>
