@@ -1,11 +1,7 @@
 **I'm currently building [Author Software Inc](https://linkedin.com/company/authorsoftware) with [@gbdrummer](https://github.com/gbdrummer).** We're the stewards of [NVM for Windows](https://nvm-windows.com).
 
----
-
 > [!NOTE]
 > About Me: I used to operate Data Analytics (DW/BI/ETLC), Application Development, and enterprise IT consulting practices. Early in my career, Amazon sponsored me to build an open source SDK for Amazon Payments, which took off and highlighted how powerful OSS can be. I've been hooked ever since.
-
----
 
 ## Original OSS Work
 
