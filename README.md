@@ -11,7 +11,7 @@
     <th>Fenix Web Server</th>
   </tr>
   <tr>
-    <td width="50%" align="center"><a href="https://github.com/nvm-windows/nvm"><img src="https://repository-images.githubusercontent.com/24268127/169e5937-11f2-4fa0-9849-0203222e3e44"/></a>a></td>
+    <td width="50%" align="center"><a href="https://github.com/nvm-windows/nvm"><img src="https://repository-images.githubusercontent.com/24268127/169e5937-11f2-4fa0-9849-0203222e3e44"/></a></td>
     <td width="50%" align="center"><a href="https://github.com/coreybutler/fenix"><img height="275" alt="image" src="https://github.com/user-attachments/assets/b3c2b015-4bbd-44df-9592-7924004201e3" /></a></td>
   </tr>
   <tr>
